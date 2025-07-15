@@ -8,9 +8,9 @@ Interactive Yahtzee game in Python that pairs a Tkinter GUI with multiple AI str
 
 ## 👩‍💻 Team
 
-- Aida-Gabriela Pâncă  
-- [Nume colegă 2]  
-- [Nume colegă 3]
+- Varzar Alina-Miruna 
+- Pâncă Aida-Gabriela   
+- Ciorâțanu Maria
 
 
 ## 🧠 Architecture
